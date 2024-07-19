@@ -16,3 +16,6 @@ def some_function_with_trailing_whitespaces() -> None:
 x = np.random.randint(0, 100, 100)
 df = pd.DataFrame({"x": x})
 plt.plot(df.x)
+
+
+
